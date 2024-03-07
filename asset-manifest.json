@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MustardBell/static/css/main.e6c13ad2.css",
+    "main.js": "/MustardBell/static/js/main.16b69667.js",
+    "static/js/453.d741f525.chunk.js": "/MustardBell/static/js/453.d741f525.chunk.js",
+    "index.html": "/MustardBell/index.html",
+    "main.e6c13ad2.css.map": "/MustardBell/static/css/main.e6c13ad2.css.map",
+    "main.16b69667.js.map": "/MustardBell/static/js/main.16b69667.js.map",
+    "453.d741f525.chunk.js.map": "/MustardBell/static/js/453.d741f525.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.16b69667.js"
+  ]
+}
