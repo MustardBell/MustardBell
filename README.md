@@ -1,0 +1,1 @@
+Hi, I’m @MustardBell. I'm a tech enthusiast and a language lover. I also enjoy creative writing. The primary purpose of this account is to share computer-aided writing scripts and tools that I've developed, making them available for others to use.
